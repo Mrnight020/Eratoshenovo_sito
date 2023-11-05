@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\bin\Debug\Eratosthenovo sito.exe.config
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\bin\Debug\Eratosthenovo sito.exe
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\bin\Debug\Eratosthenovo sito.pdb
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\obj\Debug\Eratosthenovo sito.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\obj\Debug\Eratosthenovo sito.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\obj\Debug\Eratosthenovo_sito.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\obj\Debug\Eratosthenovo_sito.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\obj\Debug\Eratosthenovo sito.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\obj\Debug\Eratosthenovo sito.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\obj\Debug\Eratosthenovo sito.exe
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Eratosthenovo sito\Eratosthenovo sito\obj\Debug\Eratosthenovo sito.pdb
